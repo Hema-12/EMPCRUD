@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Sampath",
+      "slug": "sampath",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Suprithi",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018",
+      "dob": "28/05/1993"
+    },
+    {
+      "id": 2,
+      "name": "Sandeep",
+      "slug": "sandeep",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018",
+      "dob": "28/05/1993"
+    },
+    {
+      "id": 3,
+      "name": "Punnam",
+      "slug": "punnam",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018",
+      "dob": "28/05/1993"
+    },
+    {
+      "id": 4,
+      "name": "Hemalatha",
+      "slug": "hemalatha",
+      "deptId": 1,
+      "nationality": "Indian",
+      "manager": "Supritha",
+      "phno": 9560323232,
+      "salary": 20000,
+      "doj": "28/05/2018",
+      "dob": "28/05/1993"
+    }
+  ],
+  "depts": [
+    {
+      "id": 1,
+      "name": "APPS"
+    },
+    {
+      "id": 2,
+      "name": "BPO"
+    },
+    {
+      "id": 3,
+      "name": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Finance"
+    }
+  ]
+}
